@@ -24,6 +24,6 @@ This was tested using WIN10 with Filebeat 7.6.0 and Security Onion 16.04.6.4
   - To run manually, issue ".\filebeat.exe -e" from within the filebeat directory
 
 # Visualize:
-Once Security Onion is recieving beats and indexing objects, you can create visualizations and dashboards as you see fit. Some examples are ready to be imported at Firefox-DoH-SO/SecuriyOnion/Visualizations. If you just want to import all of them including the Dashboard, just use Firefox-DoH-SO/SecurityOnion/Dashboards/Dashboard_with_Visualizations. This is what the Dashboard should look like:
+Once Security Onion is recieving beats and indexing objects, you can create visualizations and dashboards as you see fit. Some examples are ready to be imported at Firefox-DoH-SO/SecuriyOnion/Visualizations. If you just want to import all of them including the Dashboard, just use Firefox-DoH-SO/SecurityOnion/Dashboards/Dashboard_with_Visualizations. This is what the Dashboard will look like:
 
 ![DoH Dashboard](DoH_Dashboard.JPG)
