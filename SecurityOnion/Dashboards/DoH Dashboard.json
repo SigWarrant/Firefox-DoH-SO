@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "f3deb650-5dbe-11ea-9522-136ef0a0e58d",
+    "_type": "dashboard",
+    "_source": {
+      "title": "DoH/DNS - FirefoxBeats",
+      "hits": 0,
+      "description": "",
+      "panelsJSON": "[{\"gridData\":{\"x\":0,\"y\":0,\"w\":12,\"h\":9,\"i\":\"1\"},\"version\":\"6.8.6\",\"panelIndex\":\"1\",\"type\":\"visualization\",\"id\":\"b0592080-5dbb-11ea-9522-136ef0a0e58d\",\"embeddableConfig\":{}},{\"gridData\":{\"x\":12,\"y\":0,\"w\":36,\"h\":9,\"i\":\"2\"},\"version\":\"6.8.6\",\"panelIndex\":\"2\",\"type\":\"visualization\",\"id\":\"346ca940-5dbd-11ea-9522-136ef0a0e58d\",\"embeddableConfig\":{}},{\"gridData\":{\"x\":0,\"y\":9,\"w\":24,\"h\":18,\"i\":\"3\"},\"version\":\"6.8.6\",\"panelIndex\":\"3\",\"type\":\"visualization\",\"id\":\"b7540580-5da7-11ea-9522-136ef0a0e58d\",\"embeddableConfig\":{}},{\"gridData\":{\"x\":24,\"y\":9,\"w\":24,\"h\":18,\"i\":\"4\"},\"version\":\"6.8.6\",\"panelIndex\":\"4\",\"type\":\"visualization\",\"id\":\"ba6dc370-5db9-11ea-9522-136ef0a0e58d\",\"embeddableConfig\":{}},{\"gridData\":{\"x\":0,\"y\":27,\"w\":48,\"h\":18,\"i\":\"5\"},\"version\":\"6.8.6\",\"panelIndex\":\"5\",\"type\":\"visualization\",\"id\":\"3503cb10-5dbb-11ea-9522-136ef0a0e58d\",\"embeddableConfig\":{}}]",
+      "optionsJSON": "{\"darkTheme\":true,\"useMargins\":true,\"hidePanelTitles\":false}",
+      "version": 1,
+      "timeRestore": false,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"query\":{\"query\":\"\",\"language\":\"lucene\"},\"filter\":[]}"
+      }
+    }
+  }
+]
